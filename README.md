@@ -1,7 +1,6 @@
 # How to make vagrant box
 
 ## Prerequisites
-* [Chef](http://www.opscode.com/chef/ "Link to Chef")
 * [BERKSHELF](http://berkshelf.com/ "Link to BERKSHELF")
 * [Packer](http://www.packer.io/ "Link to Packer")
 
