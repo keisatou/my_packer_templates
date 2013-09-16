@@ -2,7 +2,7 @@
 
 ## Prerequisites
 * [Chef](http://www.opscode.com/chef/ "Link to Chef")
-* [BERKSHELf](http://berkshelf.com/ "Link to BERKSHELF")
+* [BERKSHELF](http://berkshelf.com/ "Link to BERKSHELF")
 * [Packer](http://www.packer.io/ "Link to Packer")
 
 ## CentOS 6.4 x86_64
