@@ -7,8 +7,6 @@
 I used the following versions:
 
 ```
-$ knife -v
-Chef: 11.6.0
 $ berks -v | head -1
 Berkshelf (2.0.10)
 $ packer -v
