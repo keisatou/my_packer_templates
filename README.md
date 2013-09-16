@@ -1,5 +1,10 @@
 # How to make vagrant box
 
+## Prerequisites
+* [Chef](http://www.opscode.com/chef/ "Link to Chef")
+* [BERKSHELf](http://berkshelf.com/ "Link to BERKSHELF")
+* [Packer](http://www.packer.io/ "Link to Packer")
+
 ## CentOS 6.4 x86_64
 ```
 $ git clone https://github.com/keisatou/my_packer_templates.git
